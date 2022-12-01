@@ -1,1 +1,1 @@
-this is file to do a signed commit 
+this is file to do a signed commit with new gpg 
