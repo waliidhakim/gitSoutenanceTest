@@ -6,6 +6,8 @@ int main()
 
 	printf("hi every body\n");
 	
-	printf("Debut du programme ...\n ");
+	printf("Debut du programme ...\n");
+
+	printf("Programme en cours ...\n");
 
 }
